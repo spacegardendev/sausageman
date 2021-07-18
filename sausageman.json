@@ -1,7 +1,7 @@
 {
 "redirect" : {
 
-"HOMEURL" : "https://kabinetdeveloperexample.blogspot.com/2020/12/optimasi-blogger.html",
+"HOMEURL" : "https://sausagemantipstricks.blogspot.com/",
  
  // testing server json yang dipakai
 "Json_popup_Wait" : "Server Ready . . . v19j13",
@@ -33,11 +33,11 @@
 "Enable_Sticky_Notification" : false,
 
 
-"STARAPPID" : "201365479",
+"STARAPPID" : "",
 
-"ADMOB_BANNER" : "ca-app-pub-2314593950848693/9824586142",
-"ADMOB_INTER" : "ca-app-pub-2314593950848693/8511504478",
-"ADMOB_NATIV" : "ca-app-pub-2314593950848693/5885341134",
+"ADMOB_BANNER" : "",
+"ADMOB_INTER" : "",
+"ADMOB_NATIV" : "",
 
 "hpk_alien" : "kuota data 30gb",
 "HPK_ADMOB1" : "Kuota Data",
@@ -55,11 +55,11 @@
 
 "UNITY_BANNER" : "banner",
 "UNITY_INTERSTITIAL" : "interstitial",
-"UNITY_GAME_ID" : "4045251",
+"UNITY_GAME_ID" : "",
 "UNITY_TEST_MODE" : "true",
 
-"APPLOVIN_BANNER_ID" : "71f5faf4df08917c",
-"APPLOVIN_INTERSTITIAL_ID" : "4711e1718612d7dc",
+"APPLOVIN_BANNER_ID" : "",
+"APPLOVIN_INTERSTITIAL_ID" : "",
 
 "Button_Start" : "START",
 "Button_Share" : "SHARE TO FRIEND",
